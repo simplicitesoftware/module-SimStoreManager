@@ -1,0 +1,10 @@
+{
+ "grt_group_id__grp_name": "PUBLIC",
+ "grt_function_id__fct_name": "STM_APP_R",
+ "grt_function_id__fct_object_id__obo_type": "O",
+ "grt_function_id__fct_object_id__obo_name": "StmApplication",
+ "grt_function_id__fct_action_id__act_name": null,
+ "grt_function_id__fct_function": "L",
+ "grt_activ": true,
+ "row_module_id__mdl_name": "SimStoreManager"
+}

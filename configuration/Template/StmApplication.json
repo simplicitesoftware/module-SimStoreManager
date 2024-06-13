@@ -1,0 +1,8 @@
+{
+ "tpl_name": "StmApplication",
+ "tpl_ui": "<div class=\"area\" data-area=\"1\"><\/div>",
+ "tpl_min": null,
+ "tpl_image": null,
+ "tpl_grid": null,
+ "row_module_id__mdl_name": "SimStoreManager"
+}

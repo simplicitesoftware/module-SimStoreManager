@@ -1,0 +1,17 @@
+{
+ "mod_name": "StoModel",
+ "mod_template_id__mtp_name": "ModelBusinessObject",
+ "mod_template_id__mtp_type": "D",
+ "mod_json": null,
+ "mod_doc": {
+  "path": "files/Model/StoModel.svg",
+  "mime": "image/svg+xml",
+  "name": "model.svg"
+ },
+ "mod_image": {
+  "path": "files/Model/StoModel.png",
+  "mime": "image/png",
+  "name": "StoModel.png"
+ },
+ "row_module_id__mdl_name": "SimStoreManager"
+}
