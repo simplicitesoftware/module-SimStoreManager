@@ -8,33 +8,16 @@
 ![](https://platform.simplicite.io/logos/standard/logo250.png)
 * * *
 
-`SimStoreManager` module definition
-===================================
+# Simplicité AppStore Manager
 
-Simplicité Application Store Management
-====================
+This modules allos to managa a Simplicité AppStore.
 
-Manages applications made available to Simplicité instances.
+1. Configure your apps in the store manager (you can import the dataset to get an example of app)
 
-`StmApplication` business object definition
--------------------------------------------
+![manager](./files/manager.png)
 
+2. Append the URL the Store Manager API (`<instance_url>/ext/StmApi`) to the `STORE_SOURCE` JSON system param of the instance you want to access the store from.
 
+3. Clear the cache on that instance and verify that you gained access to the store
 
-### Fields
-
-| Name                                                         | Type                                     | Required | Updatable | Personal | Description                                                                      |
-|--------------------------------------------------------------|------------------------------------------|----------|-----------|----------|----------------------------------------------------------------------------------|
-| `stmAppModuleName`                                           | char(100)                                | yes*     | yes       |          | -                                                                                |
-| `stmAppTitle`                                                | char(100)                                | yes      | yes       |          | -                                                                                |
-| `stmAppDescription`                                          | char(255)                                |          | yes       |          | -                                                                                |
-| `stmAppUrl`                                                  | url(255)                                 |          | yes       |          | -                                                                                |
-| `stmAppLogo`                                                 | url(255)                                 |          | yes       |          | -                                                                                |
-| `stmAppSettings`                                             | text(500)                                |          | yes       |          | -                                                                                |
-
-`StmApi` external object definition
------------------------------------
-
-
-
-
+![store](./files/store.png)

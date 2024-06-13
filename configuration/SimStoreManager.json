@@ -1,9 +1,0 @@
-{
- "mdl_name": "SimStoreManager",
- "mdl_prefix": "stm",
- "mdl_version": "1",
- "mdl_type": "A",
- "mdl_icon": null,
- "mdl_url": null,
- "mdl_comment": "Simplicité Application Store Management\n====================\n\nManages applications made available to Simplicité instances."
-}

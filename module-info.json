@@ -1,9 +1,0 @@
-{
-    "date": "2024-06-13 10:51:34",
-    "name": "SimStoreManager",
-    "format": "json",
-    "files": ["configuration/**.json"],
-    "repository": {},
-    "version": "1",
-    "platform": "6.0.13"
-}
