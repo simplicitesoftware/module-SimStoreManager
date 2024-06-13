@@ -8,7 +8,7 @@
  },
  "tsl_lang": "ENU",
  "tsl_value": "Module Name",
- "tsl_simplehelp": null,
+ "tsl_simplehelp": "<p>Name of the module. Must be exactly the same as what is configured in the module to not get errors when importing.<\/p>",
  "tsl_plural_value": null,
  "tsl_short_value": null,
  "tsl_placeholder": null,

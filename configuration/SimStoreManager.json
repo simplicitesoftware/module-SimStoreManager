@@ -4,6 +4,6 @@
  "mdl_version": "1",
  "mdl_type": "A",
  "mdl_icon": null,
- "mdl_url": null,
+ "mdl_url": "{ type:\"git\", branch: \"6\"}",
  "mdl_comment": "Simplicité Application Store Management\n====================\n\nManages applications made available to Simplicité instances."
 }

@@ -1,0 +1,10 @@
+{
+ "row_module_id__mdl_name": "SimStoreManager",
+ "dt_name": "dataset",
+ "dt_file": {
+  "path": "data/dataset.xml",
+  "mime": "text/xml",
+  "name": "SimStoreManager-data-20240613112400.xml"
+ },
+ "dt_desc": "Created by module's data export on 2024-06-13 11:24:00"
+}

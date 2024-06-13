@@ -8,7 +8,7 @@
  },
  "tsl_lang": "ENU",
  "tsl_value": "Settings",
- "tsl_simplehelp": null,
+ "tsl_simplehelp": "<p>Settings by platform. Uses <a href=\"https://docs.npmjs.com/about-semantic-versioning\" target=\"_blank\" rel=\"noopener\">npm semver<\/a><\/p>\n<p>Example:<\/p>\n<p><code>{<br>&nbsp;&nbsp;&nbsp; \"~5\": \"{ \\\"type\\\": \\\"git\\\", \\\"origin\\\": { \\\"uri\\\": \\\"https://github.com/simplicitesoftware/module-artil.git\\\" } }\"<br>}<\/code><\/p>\n<p>&nbsp;<\/p>",
  "tsl_plural_value": null,
  "tsl_short_value": null,
  "tsl_placeholder": null,

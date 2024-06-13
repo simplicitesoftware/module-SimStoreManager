@@ -9,7 +9,7 @@
  "obo_comment": null,
  "obo_type": "O",
  "obo_searchspec": null,
- "obo_exportorder": null,
+ "obo_exportorder": 10,
  "obo_distinct": false,
  "obo_indexable": false,
  "obo_groupby": false,
